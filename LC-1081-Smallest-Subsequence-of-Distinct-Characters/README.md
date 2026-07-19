@@ -1,4 +1,12 @@
 # 1081. Smallest Subsequence of Distinct Characters
+> ⏱ 4ms (beats 8.14%)  |  🧠 43.28MB
+
+## Performance
+
+| Metric | Value | Beats |
+|--------|-------|-------|
+| Runtime | 4ms | 8.14% |
+| Memory  | 43.28MB  | N/A |
 
 
 ## Problem Statement
@@ -30,10 +38,6 @@ Constraints:
  
 
 Note: This question is the same as 316: https://leetcode.com/problems/remove-duplicate-letters/
-
-**Performance Metrics:**
-- Runtime: 0ms
-- Memory: 0.00MB
 
 ---
 *Saved via [GitLeet](https://github.com)*
