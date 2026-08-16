@@ -4,8 +4,8 @@
 
 | Metric | Value | Beats |
 |--------|-------|-------|
-| Runtime | 0ms | N/A |
-| Memory | 0.00MB | N/A |
+| Runtime | 0ms | 47.83% |
+| Memory | 48.02MB | N/A |
 
 ## Problem Statement
 
